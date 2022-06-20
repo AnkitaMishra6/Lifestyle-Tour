@@ -1,10 +1,10 @@
-# <a href="">Tourism Website with QnA Bot</a>
+# <a href="https://nice-flower-06bd0f710.1.azurestaticapps.net">Tourism Website with QnA Bot</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/ankita/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/ankita-mishra271/)
 ![Responsive](https://img.shields.io/badge/Responsive-100%25-red)
 
 This is a 5 Page Tourism Front End website design
@@ -45,7 +45,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 - Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link : </b>
+<b>Project Link : https://nice-flower-06bd0f710.1.azurestaticapps.net</b>
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="/images/FRT.jpeg" width="700" height= "350"></p></a>  
 
  # SCREENSHOTS
@@ -56,7 +56,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
  
 ### About
 
-![about](about.png)
+![about](/images/about.png)
 
 ### QnA
 
